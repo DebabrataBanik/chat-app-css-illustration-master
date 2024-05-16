@@ -105,7 +105,7 @@ img{
 }
 .username{
   font-size: 0.8rem;
-  color: var(--light-grayish-violet);
+  color: hsl(276, 100%, 90%);
 }
 .availability{
   color: var(--pale-violet);
